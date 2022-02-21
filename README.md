@@ -4,7 +4,7 @@
 This Component is made to store the individual usersettings like darkmode, postAnonym or something like that. 
 The value are stored in Locastorage to check the state everywhere in you app without a active database connection.
 
-
+Feel free to contibute, fork, star, issues and so on. <3 spread love
 
 
 ## Use
