@@ -39,3 +39,19 @@ The value are stored in Locastorage to check the state everywhere in you app wit
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianrichter1337/)
 [![youtube](https://img.shields.io/badge/youtube-f70025?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/gismo1337dev)
 [![expo](https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@g1sm0?tab=snacks)
+## Demo
+
+[Check it out](https://snack.expo.dev/@g1sm0/settings-switch-localstorage-react-native-base-component).
+
+
+## Dependency
+
+Localstorage was made by [@react-native-async-storage](https://github.com/react-native-async-storage/async-storage).
+
+
+
+
+## Authors
+
+- [@gismo1337](https://www.github.com/gismo1337)
+
